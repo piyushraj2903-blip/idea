@@ -1,0 +1,26 @@
+pre{
+    text-align: center;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: aliceblue;
+    text-transform: capitalize;
+}
+h1{
+    text-align: center;
+    text-decoration: rgb(10, 8, 8) underline;
+    font-weight: bold;
+    color: aliceblue;
+    border-radius: 70px;
+    border-style: dotted;
+    border-color: rgb(249, 245, 245);
+
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1250250282/photo/blank-concrete-or-cement-wall-texture-background-dark-tone.jpg?s=612x612&w=0&k=20&c=1C1vudltgR4ytxnrfh2nNuruYpNoPLaolBnJ_d_oTZM=);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover ;
+}
+
+
